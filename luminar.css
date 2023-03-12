@@ -124,6 +124,9 @@ h6{
     margin-top: 2%;
     margin-right: 2%;
 }
+.q6 select{
+    width: 98%;
+}
 .z4{
     height: 330px;
 }
@@ -137,6 +140,7 @@ h6{
         padding-bottom: .7%;
         font-size: x-small;
     }
+    
 }
 
 
@@ -286,5 +290,8 @@ h6{
     }
     .z5{
         font-size: x-small;
+    }
+    .q6 select{
+        width: 92%;
     }
 }
